@@ -1,7 +1,6 @@
 ﻿# Hi there, I'm Nguyen Hai Nam 👋
 ### 🚀 Software Engineer | Java Backend & Mobile Developer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com)
 [![Gmail](https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nnam03102005@gmail.com)
 [![Gemini Certified](https://img.shields.io/badge/Google-Gemini_Certified_Student-4285F4?style=for-the-badge&logo=google&logoColor=white)](#)
 
