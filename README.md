@@ -55,15 +55,6 @@ I specialize in building secure, high-integrity backend systems and cross-platfo
 
 ---
 
-### 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nguyenhainam05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Hai Nam's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenhainam05&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="45%" />
-</p>
-
----
-
 ### 📬 Contact Info
 - 📍 **Location:** Hoang Mai, Hanoi, Vietnam
 - 📧 **Email:** [nnam03102005@gmail.com](mailto:nnam03102005@gmail.com)
